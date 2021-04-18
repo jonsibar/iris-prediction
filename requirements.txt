@@ -1,0 +1,7 @@
+msgpack-python
+celery[redis]
+matplotlib
+flask
+fpdf
+scikit-learn==0.19.1
+scipy

@@ -1,0 +1,1 @@
+IRIS Class Prediction web service using Celery, Flask, RabbitMQ, Redis, and Docker.
